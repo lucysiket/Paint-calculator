@@ -6,5 +6,6 @@ Instructions on how to run application:
 - Open the C# project file
 - In visual studio, select 'program.cs' and run the program
 
-Alternatively:
+Alternatives:
+- Clone repository in Visual Studio (using this link: https://github.com/lucysiket/Borwell-Challenge) and open the C# project file
 - Copy and paste code into an IDE that supports C#
