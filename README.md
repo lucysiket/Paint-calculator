@@ -1,4 +1,4 @@
-# Paint calculator
+# Borwell software challenge
 This program was created as a software challenge for my work experience placement at the company Borwell.
 
 Instructions on how to run application:
